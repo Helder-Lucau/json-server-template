@@ -61,9 +61,9 @@
     {
       "id": 1,
       "donorName": "Marion",
-      "payment-method": "Paypal",
+      "card-number": "ACD9092121AS",
       "donation": 50,
-      "email": ""
+      "email":"marion@gmail.com"
     }
   ]
 }
