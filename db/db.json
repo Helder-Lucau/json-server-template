@@ -58,5 +58,11 @@
       "donation": 50,
       "email": "marion@gmail.com"
     }
+  ],
+  "newsletter": [
+    {
+      "id": 1,
+      "suscribeEmail": "tm@gmail.com"
+    }
   ]
 }
